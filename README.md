@@ -11,6 +11,9 @@ Last update: 10.12.2017
 
 ## Changelog
 ```C
+# Version 1.0.3
+- fix Version 1.0.2 timer shutdown issue
+
 # Version 1.0.2
 - add shutdown with timer
 - fix logfile issue
