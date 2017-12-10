@@ -2,8 +2,8 @@
 
 ```C
 Author: Philipp Dalheimer
-Version: 1.0.2
-Last update: 10.12.2017
+Version: 1.0.3
+Last update: 11.12.2017
 ```
 
 ## Download Version 1.0.0
