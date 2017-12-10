@@ -2,8 +2,8 @@
 
 ```C
 Author: Philipp Dalheimer
-Version: 1.0.1
-Last update: 07.12.2017
+Version: 1.0.2
+Last update: 10.12.2017
 ```
 
 ## Download Version 1.0.0
@@ -11,6 +11,10 @@ Last update: 07.12.2017
 
 ## Changelog
 ```C
+# Version 1.0.2
+- add shutdown with timer
+- fix logfile issue
+
 # Version 1.0.1
 - add updater
 - add shortcuts and help section
