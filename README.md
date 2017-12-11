@@ -2,7 +2,7 @@
 
 ```C
 Author: Philipp Dalheimer
-Version: 1.0.3
+Version: 1.0.4
 Last update: 11.12.2017
 ```
 
@@ -11,8 +11,14 @@ Last update: 11.12.2017
 
 ## Changelog
 ```C
+# Version 1.0.4
+- add intro
+- fix help dialog
+- add settings
+- add light/dark theme
+
 # Version 1.0.3
-- fix Version 1.0.2 timer shutdown issue
+- fix version 1.0.2 timer shutdown issue
 
 # Version 1.0.2
 - add shutdown with timer
