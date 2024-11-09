@@ -9,7 +9,7 @@ Version: 1.0.4
 Last update: 11.12.2017
 ```
 
-## Download Version 1.0.0
+## Download
 [![Badges](http://img.shields.io/:Download-1.0.4-fe7d37.svg)]([http://bitly.com/2AkGOYO](https://github.com/Karamellwuerfel/shutdown-timer/blob/master/Shutdown%20Timer%20Setup%201.0.4.exe))
 
 ## Changelog
