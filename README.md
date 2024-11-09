@@ -1,7 +1,7 @@
 # Shutdown Timer
 
 > [!IMPORTANT]  
-> No entertainment and updates anymore. Project of 2017.
+> No updates anymore. Project of 2017.
 
 ```C
 Author: Philipp Dalheimer
